@@ -49,18 +49,25 @@ Overall, this project demonstrates the ability to transform raw financial data i
 ---
 
 ## 📂 Repository Structure
+
 ```text
 Webscraping-Stock-Data-and-Visualization/
 │
-├── web_scraping_and_data_visualization.ipynb
-├── tesla_stock_profile.html
-├── nvidia_stock_profile.html
-├── tesla_revenue_profile.html
-├── nvidia_revenue_profile.html
+├── Python_Code/
+│   └── web_scraping_and_data_visualization.ipynb
+│
+├── Pandas_Profiling/
+│   ├── tesla_stock_profile.html
+│   ├── nvidia_stock_profile.html
+│   ├── tesla_revenue_profile.html
+│   └── nvidia_revenue_profile.html
+│
+├── Project_Report.pdf
 ├── README.md
-└── LICENSE
-```
+├── LICENSE
+└── .gitignore
 
+```
 ---
 
 ## 📊 Analytical Coverage
