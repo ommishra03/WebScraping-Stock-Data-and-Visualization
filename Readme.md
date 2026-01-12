@@ -1,5 +1,5 @@
-# 🚀 Web Scraping & Stock Data Visualization
-## Tesla ⚡ | NVIDIA 🧠
+#  Web Scraping & Stock Data Visualization
+## Tesla | NVIDIA 
 ### *End‑to‑End Financial Analysis with Executive‑Grade Insights*
 
 ---
