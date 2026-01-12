@@ -33,6 +33,7 @@ The analysis combines **API-based stock price extraction**, **real-world web scr
 The results indicate that **NVIDIA demonstrates stronger risk-adjusted performance**, supported by consistent and accelerating revenue growth, while **Tesla exhibits higher volatility**, reflecting a higher risk–reward profile influenced more heavily by market sentiment and growth expectations.
 
 Overall, this project demonstrates the ability to transform raw financial data into **structured, executive-level insights**, closely aligning with real-world workflows used in **data analytics, business intelligence, and financial analysis roles**.
+
 ---
 
 
