@@ -24,6 +24,17 @@ No tutorials. No shortcuts. Just disciplined analysis.
 - Are insights derived from **clean, reliable data**?
 
 ---
+## Summary of the Project
+
+This project delivers an end-to-end financial data analysis of **Tesla** and **NVIDIA**, integrating market behavior with business fundamentals to generate **risk-aware, decision-oriented insights**.
+
+The analysis combines **API-based stock price extraction**, **real-world web scraping of revenue data**, and **automated data profiling** to validate data quality before conducting any analytical evaluation. Core techniques applied include trend analysis using moving averages, volatility and rolling volatility assessment, normalized performance comparison, and **risk-adjusted return measurement through the Sharpe Ratio**.
+
+The results indicate that **NVIDIA demonstrates stronger risk-adjusted performance**, supported by consistent and accelerating revenue growth, while **Tesla exhibits higher volatility**, reflecting a higher risk–reward profile influenced more heavily by market sentiment and growth expectations.
+
+Overall, this project demonstrates the ability to transform raw financial data into **structured, executive-level insights**, closely aligning with real-world workflows used in **data analytics, business intelligence, and financial analysis roles**.
+---
+
 
 ## 🛠️ Tech Stack
 - **Python**
