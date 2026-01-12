@@ -107,11 +107,13 @@ This reflects **industry best practices**, not classroom workflows.
 ---
 
 ## 🎯 Why This Stands Out
+```
 ✔ Real‑world scraping challenges handled
 ✔ Data quality validated before insights
 ✔ Risk‑aware analysis
 ✔ Executive‑style communication
 ✔ Portfolio‑ready structure
+```
 
 This project focuses on **thinking like an analyst**, not just coding.
 
